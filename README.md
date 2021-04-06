@@ -30,5 +30,4 @@ Realizar un deploy mediante el hosting de firebase para un proyecto en angular.
 * ng build
 * Ir a firebase.json y poner la dirección correcta: "public": "dist/Firebase-angular"
 * firebase deploy
-* Nos arroja un enlace que será el proyecto desplegado: https://fire-javascriptv1.web.app
-* Para futuros commits borrar: (- run: npm ci && npm run build) de los dos archivos de .github
+* Nos arroja un enlace que será el proyecto desplegado: https://fire-angularv1.web.app/
