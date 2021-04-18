@@ -18,7 +18,7 @@ Realizar un deploy mediante el hosting de firebase para un proyecto en angular.
         * ? Are you ready to proceed? (Y/n) --> y
         * Elegir Hosting, bajar con flechas, seleccionar con la tecla espacio
         * Use an existing project --> porque se selecciona el proyecto antes creado (fire-angularv1)
-        * ? What do you want to use as your public directory? (public) --> escribir un punto (dist)
+        * ? What do you want to use as your public directory? (public) --> escribir dist
         * ? Configure as a single-page app (rewrite all urls to /index.html)? (y/N) --> n
         * ? Set up automatic builds and deploys with GitHub? (y/N) --> y
         * ? For which GitHub repository would you like to set up a GitHub workflow? (format: user/repository) --> se escribe el nombre del repositorio, junto con el usuario, chrisxavix/firebase-angular
